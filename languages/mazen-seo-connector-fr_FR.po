@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Optimiz.me for Wordpress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-19 07:34+0000\n"
+"PO-Revision-Date: 2017-07-19 07:44+0000\n"
+"Last-Translator: admin <c.jayet@optimiz.me>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: classes/core/OptimizmeMazenActions.php:81
+msgid "Element has been created"
+msgstr "L'élément a été créé"
+
+#: classes/core/OptimizmeMazenActions.php:175
+#: classes/core/OptimizmeMazenActions.php:303
+#: classes/core/OptimizmeMazenActions.php:379
+#: classes/core/OptimizmeMazenActions.php:612
+msgid "No post with this ID found"
+msgstr "Aucun post avec cet ID n'a été trouvé"
+
+#: classes/core/OptimizmeMazenActions.php:586
+msgid "Error push element: no array or not set"
+msgstr "Erreur push élément : pas un tableau ou donnée non définie"
+
+#: classes/core/OptimizmeMazenActions.php:753
+msgid "No type for meta robots"
+msgstr "Aucun type défini pour les meta robots"
+
+#: classes/core/OptimizmeMazenActions.php:906
+msgid "Need tag in updatable post"
+msgstr "Besoin d'un tag pour updatable post"
+
+#: classes/core/OptimizmeMazenActions.php:908
+msgid "Need values to check in updatable post"
+msgstr "Besoin de valeurs à vérifier pour updatable post"
+
+#: classes/core/OptimizmeMazenActions.php:1023
+msgid "Category loaded"
+msgstr "Catégorie chargée"
+
+#: classes/core/OptimizmeMazenActions.php:1039
+msgid "Please specify a field to update this category"
+msgstr "Veuillez spécifier le champ à mettre à jour pour cette catégorie"
+
+#: classes/core/OptimizmeMazenActions.php:1121
+msgid "Category has been created"
+msgstr "La catégorie a été créée"
+
+#: classes/core/OptimizmeMazenActions.php:1169
+msgid "Id not set for update redirection"
+msgstr "Id non défini pour modifier la redirection"
+
+#: classes/core/OptimizmeMazenActions.php:1183
+msgid "Id not set for delete"
+msgstr "Id non défini pour delete"
+
+#: classes/core/OptimizmeMazenActions.php:1273
+msgid "Invalid credentials"
+msgstr "Authentification non valide"
+
+#: classes/core/OptimizmeMazenActions.php:1293
+msgid "Need more informations for credentials check"
+msgstr "Besoin de plus d'informations pour l'authentification"
+
+#: classes/core/OptimizmeMazenCore.php:56
+msgid "JWT Error: no idc set in header"
+msgstr "Erreur JWT : Le header ne contient pas de idc"
+
+#: classes/core/OptimizmeMazenCore.php:95
+msgid "JSON Web Token needed - not an object"
+msgstr "JSON Web Token requis : pas un objet"
+
+#: classes/core/OptimizmeMazenCore.php:99
+msgid "JSON Web Token needed - action not allowed"
+msgstr "JSON Web Token requis : action non autorisée"
+
+#: classes/core/OptimizmeMazenJwt.php:74
+msgid "JWT Error: should be in 3 parts"
+msgstr "Erreur JWT : doit être en 3 parties"
+
+#: classes/core/OptimizmeMazenJwt.php:80
+msgid "JWT Error: Header is null"
+msgstr "Erreur JWT : Header est nul"
+
+#: classes/core/OptimizmeMazenJwt.php:86
+msgid "JWT Error: Header not formatted correctly"
+msgstr "Erreur JWT : format du header non conforme"
+
+#: classes/core/OptimizmeMazenJwt.php:103
+msgid "JWT Error: Secret is null"
+msgstr "Erreur JWT : le secret est nul"
+
+#: classes/dispatch/OptimizmeMazenDispatcher.php:119
+msgid "Not allowed type to get"
+msgstr "Type non autorisé pour get"
+
+#: classes/dispatch/OptimizmeMazenDispatcher.php:122
+msgid "No type specified for get"
+msgstr "Type non spécifié pour get"
+
+#: classes/dispatch/OptimizmeMazenDispatcher.php:133
+msgid "Not allowed type to create"
+msgstr "Type à créer non autorisé"
+
+#: classes/dispatch/OptimizmeMazenDispatcher.php:136
+msgid "No specified type in create"
+msgstr "Type à créer non spécifié"
+
+#: classes/dispatch/OptimizmeMazenDispatcher.php:143
+msgid "ID not specified or invalid"
+msgstr "ID non spécifié ou invalide"
+
+#: classes/dispatch/OptimizmeMazenDispatcher.php:145
+msgid "Value not specified"
+msgstr "Valeur non spécifiée"
+
+#: classes/dispatch/OptimizmeMazenDispatcher.php:226
+msgid "Not allowed type to update"
+msgstr "Type à mettre à jour non autorisé"
+
+#: classes/dispatch/OptimizmeMazenDispatcher.php:230
+msgid "No specified type in update "
+msgstr "Type à mettre à jour non spécifié"
+
+#. Name of the plugin
+msgid "Mazen SEO Connector"
+msgstr "Mazen SEO Connector"
+
+#. Description of the plugin
+msgid "Interaction with MAZEN, the first SEO software that saves your time"
+msgstr ""
+"Interaction avec MAZEN, le premier logiciel SEO qui vous fait gagner du temps"
+
+#. Author URI of the plugin
+msgid "http://mazen-app.com/"
+msgstr "http://mazen-app.com/"
+
+#: classes/core/OptimizmeMazenActions.php:43
+msgid "No post type defined (post or page)"
+msgstr "Aucun type de contenu défini (article ou page)"
+
+#: classes/core/OptimizmeMazenActions.php:49
+#: classes/core/OptimizmeMazenActions.php:190
+#: classes/core/OptimizmeMazenActions.php:1100
+msgid "Please enter a title"
+msgstr "Veuillez indiquer un titre"
+
+#: classes/core/OptimizmeMazenActions.php:85
+msgid "Error creating post"
+msgstr "Erreur lors de la création de l'article"
+
+#: classes/core/OptimizmeMazenActions.php:187
+#: classes/core/OptimizmeMazenActions.php:213
+#: classes/core/OptimizmeMazenActions.php:295
+#: classes/core/OptimizmeMazenActions.php:319
+#: classes/core/OptimizmeMazenActions.php:445
+#: classes/core/OptimizmeMazenActions.php:625
+#: classes/core/OptimizmeMazenActions.php:650
+#: classes/core/OptimizmeMazenActions.php:675
+#: classes/core/OptimizmeMazenActions.php:714
+#: classes/core/OptimizmeMazenActions.php:751
+#: classes/core/OptimizmeMazenActions.php:784
+msgid "No valid ID found"
+msgstr "Aucun ID valide trouvé"
+
+#: classes/core/OptimizmeMazenActions.php:216
+msgid "Please enter a new content"
+msgstr "Veuillez indiquer un nouveau contenu"
+
+#: classes/core/OptimizmeMazenActions.php:257
+msgid "Error copying image in CMS, error-copy returned"
+msgstr "Erreur lors de la copie de l'image vers Wordpress, error-copy retourné"
+
+#: classes/core/OptimizmeMazenActions.php:279
+msgid "Content successfully saved"
+msgstr "Contenu enregistré avec succès"
+
+#: classes/core/OptimizmeMazenActions.php:376
+#: classes/core/OptimizmeMazenActions.php:608
+msgid "Nothing was modified."
+msgstr "Aucune modification effectuée."
+
+#: classes/core/OptimizmeMazenActions.php:448
+msgid "No initial content found, action canceled"
+msgstr "Contenu initial non trouvé, action annulée"
+
+#: classes/core/OptimizmeMazenActions.php:460
+msgid "DOMDocument library is missing on CMS server"
+msgstr ""
+"Librairie DOMDocument manquante sur le serveur hébergeant le site Wordpress."
+
+#: classes/core/OptimizmeMazenActions.php:628
+msgid "Please enter a Meta title"
+msgstr "Veuillez entrer le meta title"
+
+#: classes/core/OptimizmeMazenActions.php:653
+msgid "Please enter a Meta description"
+msgstr "Veuillez indiquer la Meta Description"
+
+#: classes/core/OptimizmeMazenActions.php:684
+msgid "Error saving canonical URL for YOAST"
+msgstr "Erreur lors de l'enregistrement de l'URL canonique pour YOAST"
+
+#: classes/core/OptimizmeMazenActions.php:695
+msgid "Error saving canonical url"
+msgstr "Erreur lors de l'enregistrement de l'URL canonique"
+
+#: classes/core/OptimizmeMazenActions.php:737
+#: classes/core/OptimizmeMazenActions.php:771
+msgid "Error loading post for setMetaRobots"
+msgstr "Erreur lors du chargement du post depuis setMetaRobots"
+
+#: classes/core/OptimizmeMazenActions.php:803
+msgid "Error loading post for setPostStatus"
+msgstr "Erreur lors du chargement du post depuis setPostStatus"
+
+#: classes/core/OptimizmeMazenActions.php:818
+#: classes/core/OptimizmeMazenActions.php:884
+msgid "Please enter valid ID"
+msgstr "Erreur lors de la récupération de l'ID du post"
+
+#: classes/core/OptimizmeMazenActions.php:821
+msgid "Please enter slug"
+msgstr "Veuillez indiquer l'identifiant url"
+
+#: classes/core/OptimizmeMazenActions.php:838
+msgid "URL are identical, no change."
+msgstr "Les URL sont identiques, aucun changement effectué."
+
+#: classes/core/OptimizmeMazenActions.php:865
+#: classes/core/OptimizmeMazenActions.php:869
+msgid "Slug has been successfully changed"
+msgstr "L'url a bien été changée"
+
+#: classes/core/OptimizmeMazenActions.php:1011
+#: classes/core/OptimizmeMazenActions.php:1037
+msgid "No valid ID sent"
+msgstr "Pas d'ID valide envoyé"
+
+#: classes/core/OptimizmeMazenActions.php:1054
+msgid "Category not found."
+msgstr "Catégorie non trouvée."
+
+#: classes/core/OptimizmeMazenActions.php:1057
+msgid "Please enter the category slug"
+msgstr "Veuillez indiquer l'identifiant url de la catégorie"
+
+#: classes/core/OptimizmeMazenActions.php:1074
+msgid "URL are the same, no changes."
+msgstr "Les URL sont identiques, rien n'a changé."
+
+#: classes/core/OptimizmeMazenActions.php:1149
+msgid "Redirect not found"
+msgstr "Redirection non trouvée"
+
+#: classes/core/OptimizmeMazenActions.php:1208
+msgid "Information has been saved."
+msgstr "Les informations ont été enregistrées."
+
+#: classes/core/OptimizmeMazenActions.php:1225
+msgid "No data found"
+msgstr "Donnée non trouvée"
+
+#: classes/core/OptimizmeMazenActions.php:1237
+msgid "Please enter the site title"
+msgstr "Veuillez indiquer le titre du site"
+
+#: classes/core/OptimizmeMazenActions.php:1264
+msgid "JSON Token generated in Wordpress"
+msgstr "Jeton JSON générée par Wordpress"
+
+#: classes/core/OptimizmeMazenCore.php:67
+msgid "JSON Web Token not decoded properly, secret may be not correct: "
+msgstr ""
+"JSON Web Token non décodé correctement, le secret n'est peut-être pas "
+"correct."
+
+#: classes/core/OptimizmeMazenCore.php:111
+#: classes/core/OptimizmeMazenCore.php:115
+#: classes/dispatch/OptimizmeMazenDispatcher.php:27
+msgid "No action set"
+msgstr "Aucune action de définie."
+
+#: classes/core/OptimizmeMazenCore.php:124
+msgid "No action found."
+msgstr "Aucune action trouvée."
+
+#: classes/core/OptimizmeMazenCore.php:130
+msgid "One or several errors have been detected"
+msgstr "Une ou plusieurs erreurs ont été levées"
+
+#: classes/core/OptimizmeMazenCore.php:137
+msgid "Action done!"
+msgstr "Action effectuée !"
+
+#: classes/core/OptimizmeMazenUtils.php:35
+msgid "Recent posts from Mazen blog: "
+msgstr "Derniers contenus provenant du blog Mazen"
+
+#: classes/core/OptimizmeMazenUtils.php:52
+msgid "No post found"
+msgstr "Aucun contenu trouvé"
+
+#: classes/core/OptimizmeMazenUtils.php:56
+#, php-format
+msgid "Posted at %s"
+msgstr "Posté le %s"
+
+#: classes/wp/OptimizmeMazenBo.php:65 classes/wp/OptimizmeMazenBo.php:65
+msgid "Home"
+msgstr ""
+"Accueil\n"
+
+#: classes/wp/OptimizmeMazenBo.php:66 classes/wp/OptimizmeMazenBo.php:66
+msgid "Redirections"
+msgstr "Redirections"
+
+#: classes/wp/OptimizmeMazenFo.php:88
+msgid "Preview for this post:"
+msgstr "Prévisualisation du contenu :"
+
+#: classes/wp/OptimizmeMazenInterfacesBo.php:69
+msgid "Redirect disabled"
+msgstr "Redirection désactivée"
+
+#: classes/wp/OptimizmeMazenInterfacesBo.php:72
+msgid "Redirect enabled"
+msgstr "Redirection activée"
+
+#: classes/wp/OptimizmeMazenInterfacesBo.php:75
+msgid "Redirect deleted"
+msgstr "Redirection supprimée"
+
+#: classes/wp/OptimizmeMazenInterfacesBo.php:97
+msgid "All redirects:"
+msgstr "Toutes les redirections"
+
+#: classes/wp/OptimizmeMazenInterfacesBo.php:101
+msgid "Enabled"
+msgstr "Activé"
+
+#: classes/wp/OptimizmeMazenInterfacesBo.php:102
+msgid "disabled"
+msgstr "désactivé"
+
+#: classes/wp/OptimizmeMazenInterfacesBo.php:136
+msgid "Enable"
+msgstr "Activé"
+
+#: classes/wp/OptimizmeMazenInterfacesBo.php:140
+msgid "Disable"
+msgstr "Désactivé"
+
+#. Author of the plugin
+msgid "Optimiz.me"
+msgstr "Optimiz.me"
